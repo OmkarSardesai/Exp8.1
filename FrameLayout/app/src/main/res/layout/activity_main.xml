@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Pillars of OOP's"
+        android:textSize="30dp"
+        android:paddingLeft="120dp"
+        android:paddingTop="50dp"
+        android:textColor ="#F227F3"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="160dp"
+        android:paddingTop = "160dp"
+        android:text="Abstraction"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="160dp"
+        android:paddingTop = "200dp"
+        android:text="Encapsulation"
+        android:textSize="20dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="160dp"
+        android:paddingTop = "250dp"
+        android:text="Inheritance"
+        android:textSize="20dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="160dp"
+        android:paddingTop = "300dp"
+        android:text="Polymorphism"
+        android:textSize="20dp"
+
+        />
+</FrameLayout>
